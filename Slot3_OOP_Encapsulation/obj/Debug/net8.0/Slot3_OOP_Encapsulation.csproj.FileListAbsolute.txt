@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Test\Slot3_OOP_Encapsulation\bin\Debug\net8.0\Slot3_OOP_Encapsulation.exe
+C:\Users\ADMIN\source\repos\Test\Slot3_OOP_Encapsulation\bin\Debug\net8.0\Slot3_OOP_Encapsulation.deps.json
+C:\Users\ADMIN\source\repos\Test\Slot3_OOP_Encapsulation\bin\Debug\net8.0\Slot3_OOP_Encapsulation.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Slot3_OOP_Encapsulation\bin\Debug\net8.0\Slot3_OOP_Encapsulation.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_OOP_Encapsulation\bin\Debug\net8.0\Slot3_OOP_Encapsulation.pdb
+C:\Users\ADMIN\source\repos\Test\Slot3_OOP_Encapsulation\obj\Debug\net8.0\Slot3_OOP_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Slot3_OOP_Encapsulation\obj\Debug\net8.0\Slot3_OOP_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_OOP_Encapsulation\obj\Debug\net8.0\Slot3_OOP_Encapsulation.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Slot3_OOP_Encapsulation\obj\Debug\net8.0\Slot3_OOP_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_OOP_Encapsulation\obj\Debug\net8.0\Slot3_OOP_Encapsulation.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_OOP_Encapsulation\obj\Debug\net8.0\refint\Slot3_OOP_Encapsulation.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_OOP_Encapsulation\obj\Debug\net8.0\Slot3_OOP_Encapsulation.pdb
+C:\Users\ADMIN\source\repos\Test\Slot3_OOP_Encapsulation\obj\Debug\net8.0\Slot3_OOP_Encapsulation.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_OOP_Encapsulation\obj\Debug\net8.0\ref\Slot3_OOP_Encapsulation.dll

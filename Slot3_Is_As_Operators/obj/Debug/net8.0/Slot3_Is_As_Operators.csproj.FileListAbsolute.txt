@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Test\Slot3_Is_As_Operators\bin\Debug\net8.0\Slot3_Is_As_Operators.exe
+C:\Users\ADMIN\source\repos\Test\Slot3_Is_As_Operators\bin\Debug\net8.0\Slot3_Is_As_Operators.deps.json
+C:\Users\ADMIN\source\repos\Test\Slot3_Is_As_Operators\bin\Debug\net8.0\Slot3_Is_As_Operators.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Slot3_Is_As_Operators\bin\Debug\net8.0\Slot3_Is_As_Operators.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Is_As_Operators\bin\Debug\net8.0\Slot3_Is_As_Operators.pdb
+C:\Users\ADMIN\source\repos\Test\Slot3_Is_As_Operators\obj\Debug\net8.0\Slot3_Is_As_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Slot3_Is_As_Operators\obj\Debug\net8.0\Slot3_Is_As_Operators.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Is_As_Operators\obj\Debug\net8.0\Slot3_Is_As_Operators.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Slot3_Is_As_Operators\obj\Debug\net8.0\Slot3_Is_As_Operators.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Is_As_Operators\obj\Debug\net8.0\Slot3_Is_As_Operators.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Is_As_Operators\obj\Debug\net8.0\refint\Slot3_Is_As_Operators.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Is_As_Operators\obj\Debug\net8.0\Slot3_Is_As_Operators.pdb
+C:\Users\ADMIN\source\repos\Test\Slot3_Is_As_Operators\obj\Debug\net8.0\Slot3_Is_As_Operators.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Is_As_Operators\obj\Debug\net8.0\ref\Slot3_Is_As_Operators.dll

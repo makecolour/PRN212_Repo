@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Test\Anonymous Method\bin\Debug\net8.0\Anonymous Method.exe
+C:\Users\ADMIN\source\repos\Test\Anonymous Method\bin\Debug\net8.0\Anonymous Method.deps.json
+C:\Users\ADMIN\source\repos\Test\Anonymous Method\bin\Debug\net8.0\Anonymous Method.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Anonymous Method\bin\Debug\net8.0\Anonymous Method.dll
+C:\Users\ADMIN\source\repos\Test\Anonymous Method\bin\Debug\net8.0\Anonymous Method.pdb
+C:\Users\ADMIN\source\repos\Test\Anonymous Method\obj\Debug\net8.0\Anonymous Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Anonymous Method\obj\Debug\net8.0\Anonymous Method.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Anonymous Method\obj\Debug\net8.0\Anonymous Method.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Anonymous Method\obj\Debug\net8.0\Anonymous Method.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Anonymous Method\obj\Debug\net8.0\Anonymous Method.dll
+C:\Users\ADMIN\source\repos\Test\Anonymous Method\obj\Debug\net8.0\refint\Anonymous Method.dll
+C:\Users\ADMIN\source\repos\Test\Anonymous Method\obj\Debug\net8.0\Anonymous Method.pdb
+C:\Users\ADMIN\source\repos\Test\Anonymous Method\obj\Debug\net8.0\Anonymous Method.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Anonymous Method\obj\Debug\net8.0\ref\Anonymous Method.dll

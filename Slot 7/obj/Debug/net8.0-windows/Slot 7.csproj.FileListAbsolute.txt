@@ -1,0 +1,22 @@
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\Slot 7_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\Test\Slot 7\bin\Debug\net8.0-windows\Slot 7.exe
+C:\Users\ADMIN\source\repos\Test\Slot 7\bin\Debug\net8.0-windows\Slot 7.deps.json
+C:\Users\ADMIN\source\repos\Test\Slot 7\bin\Debug\net8.0-windows\Slot 7.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Slot 7\bin\Debug\net8.0-windows\Slot 7.dll
+C:\Users\ADMIN\source\repos\Test\Slot 7\bin\Debug\net8.0-windows\Slot 7.pdb
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\Slot 7_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\Slot 7.g.resources
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\Slot 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\Slot 7.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\Slot 7.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\Slot 7.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\Slot 7.dll
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\refint\Slot 7.dll
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\Slot 7.pdb
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\Slot 7.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\ref\Slot 7.dll
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\Window1.g.cs
+C:\Users\ADMIN\source\repos\Test\Slot 7\obj\Debug\net8.0-windows\Window1.baml

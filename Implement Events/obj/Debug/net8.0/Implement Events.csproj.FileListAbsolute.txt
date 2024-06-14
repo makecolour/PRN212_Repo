@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Test\Implement Events\bin\Debug\net8.0\Implement Events.exe
+C:\Users\ADMIN\source\repos\Test\Implement Events\bin\Debug\net8.0\Implement Events.deps.json
+C:\Users\ADMIN\source\repos\Test\Implement Events\bin\Debug\net8.0\Implement Events.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Implement Events\bin\Debug\net8.0\Implement Events.dll
+C:\Users\ADMIN\source\repos\Test\Implement Events\bin\Debug\net8.0\Implement Events.pdb
+C:\Users\ADMIN\source\repos\Test\Implement Events\obj\Debug\net8.0\Implement Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Implement Events\obj\Debug\net8.0\Implement Events.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Implement Events\obj\Debug\net8.0\Implement Events.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Implement Events\obj\Debug\net8.0\Implement Events.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Implement Events\obj\Debug\net8.0\Implement Events.dll
+C:\Users\ADMIN\source\repos\Test\Implement Events\obj\Debug\net8.0\refint\Implement Events.dll
+C:\Users\ADMIN\source\repos\Test\Implement Events\obj\Debug\net8.0\Implement Events.pdb
+C:\Users\ADMIN\source\repos\Test\Implement Events\obj\Debug\net8.0\Implement Events.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Implement Events\obj\Debug\net8.0\ref\Implement Events.dll

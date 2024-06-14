@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Test\Slot3_Init_Only_Properties\bin\Debug\net8.0\Slot3_Init_Only_Properties.exe
+C:\Users\ADMIN\source\repos\Test\Slot3_Init_Only_Properties\bin\Debug\net8.0\Slot3_Init_Only_Properties.deps.json
+C:\Users\ADMIN\source\repos\Test\Slot3_Init_Only_Properties\bin\Debug\net8.0\Slot3_Init_Only_Properties.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Slot3_Init_Only_Properties\bin\Debug\net8.0\Slot3_Init_Only_Properties.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Init_Only_Properties\bin\Debug\net8.0\Slot3_Init_Only_Properties.pdb
+C:\Users\ADMIN\source\repos\Test\Slot3_Init_Only_Properties\obj\Debug\net8.0\Slot3_Init_Only_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Slot3_Init_Only_Properties\obj\Debug\net8.0\Slot3_Init_Only_Properties.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Init_Only_Properties\obj\Debug\net8.0\Slot3_Init_Only_Properties.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Slot3_Init_Only_Properties\obj\Debug\net8.0\Slot3_Init_Only_Properties.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Init_Only_Properties\obj\Debug\net8.0\Slot3_Init_Only_Properties.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Init_Only_Properties\obj\Debug\net8.0\refint\Slot3_Init_Only_Properties.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Init_Only_Properties\obj\Debug\net8.0\Slot3_Init_Only_Properties.pdb
+C:\Users\ADMIN\source\repos\Test\Slot3_Init_Only_Properties\obj\Debug\net8.0\Slot3_Init_Only_Properties.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Init_Only_Properties\obj\Debug\net8.0\ref\Slot3_Init_Only_Properties.dll

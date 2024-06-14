@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Test\Deligate\bin\Debug\net8.0\Deligate.exe
+C:\Users\ADMIN\source\repos\Test\Deligate\bin\Debug\net8.0\Deligate.deps.json
+C:\Users\ADMIN\source\repos\Test\Deligate\bin\Debug\net8.0\Deligate.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Deligate\bin\Debug\net8.0\Deligate.dll
+C:\Users\ADMIN\source\repos\Test\Deligate\bin\Debug\net8.0\Deligate.pdb
+C:\Users\ADMIN\source\repos\Test\Deligate\obj\Debug\net8.0\Deligate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Deligate\obj\Debug\net8.0\Deligate.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Deligate\obj\Debug\net8.0\Deligate.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Deligate\obj\Debug\net8.0\Deligate.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Deligate\obj\Debug\net8.0\Deligate.dll
+C:\Users\ADMIN\source\repos\Test\Deligate\obj\Debug\net8.0\refint\Deligate.dll
+C:\Users\ADMIN\source\repos\Test\Deligate\obj\Debug\net8.0\Deligate.pdb
+C:\Users\ADMIN\source\repos\Test\Deligate\obj\Debug\net8.0\Deligate.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Deligate\obj\Debug\net8.0\ref\Deligate.dll

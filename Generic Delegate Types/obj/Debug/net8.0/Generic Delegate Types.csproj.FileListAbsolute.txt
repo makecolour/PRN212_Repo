@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Test\Generic Delegate Types\bin\Debug\net8.0\Generic Delegate Types.exe
+C:\Users\ADMIN\source\repos\Test\Generic Delegate Types\bin\Debug\net8.0\Generic Delegate Types.deps.json
+C:\Users\ADMIN\source\repos\Test\Generic Delegate Types\bin\Debug\net8.0\Generic Delegate Types.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Generic Delegate Types\bin\Debug\net8.0\Generic Delegate Types.dll
+C:\Users\ADMIN\source\repos\Test\Generic Delegate Types\bin\Debug\net8.0\Generic Delegate Types.pdb
+C:\Users\ADMIN\source\repos\Test\Generic Delegate Types\obj\Debug\net8.0\Generic Delegate Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Generic Delegate Types\obj\Debug\net8.0\Generic Delegate Types.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Generic Delegate Types\obj\Debug\net8.0\Generic Delegate Types.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Generic Delegate Types\obj\Debug\net8.0\Generic Delegate Types.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Generic Delegate Types\obj\Debug\net8.0\Generic Delegate Types.dll
+C:\Users\ADMIN\source\repos\Test\Generic Delegate Types\obj\Debug\net8.0\refint\Generic Delegate Types.dll
+C:\Users\ADMIN\source\repos\Test\Generic Delegate Types\obj\Debug\net8.0\Generic Delegate Types.pdb
+C:\Users\ADMIN\source\repos\Test\Generic Delegate Types\obj\Debug\net8.0\Generic Delegate Types.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Generic Delegate Types\obj\Debug\net8.0\ref\Generic Delegate Types.dll

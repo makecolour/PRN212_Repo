@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Class\bin\Debug\net8.0\Slot3_Static_Class.exe
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Class\bin\Debug\net8.0\Slot3_Static_Class.deps.json
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Class\bin\Debug\net8.0\Slot3_Static_Class.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Class\bin\Debug\net8.0\Slot3_Static_Class.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Class\bin\Debug\net8.0\Slot3_Static_Class.pdb
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Class\obj\Debug\net8.0\Slot3_Static_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Class\obj\Debug\net8.0\Slot3_Static_Class.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Class\obj\Debug\net8.0\Slot3_Static_Class.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Class\obj\Debug\net8.0\Slot3_Static_Class.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Class\obj\Debug\net8.0\Slot3_Static_Class.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Class\obj\Debug\net8.0\refint\Slot3_Static_Class.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Class\obj\Debug\net8.0\Slot3_Static_Class.pdb
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Class\obj\Debug\net8.0\Slot3_Static_Class.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Class\obj\Debug\net8.0\ref\Slot3_Static_Class.dll

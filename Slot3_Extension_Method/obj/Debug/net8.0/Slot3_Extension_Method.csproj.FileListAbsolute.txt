@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Test\Slot3_Extension_Method\bin\Debug\net8.0\Slot3_Extension_Method.exe
+C:\Users\ADMIN\source\repos\Test\Slot3_Extension_Method\bin\Debug\net8.0\Slot3_Extension_Method.deps.json
+C:\Users\ADMIN\source\repos\Test\Slot3_Extension_Method\bin\Debug\net8.0\Slot3_Extension_Method.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Slot3_Extension_Method\bin\Debug\net8.0\Slot3_Extension_Method.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Extension_Method\bin\Debug\net8.0\Slot3_Extension_Method.pdb
+C:\Users\ADMIN\source\repos\Test\Slot3_Extension_Method\obj\Debug\net8.0\Slot3_Extension_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Slot3_Extension_Method\obj\Debug\net8.0\Slot3_Extension_Method.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Extension_Method\obj\Debug\net8.0\Slot3_Extension_Method.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Slot3_Extension_Method\obj\Debug\net8.0\Slot3_Extension_Method.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Extension_Method\obj\Debug\net8.0\Slot3_Extension_Method.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Extension_Method\obj\Debug\net8.0\refint\Slot3_Extension_Method.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Extension_Method\obj\Debug\net8.0\Slot3_Extension_Method.pdb
+C:\Users\ADMIN\source\repos\Test\Slot3_Extension_Method\obj\Debug\net8.0\Slot3_Extension_Method.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Extension_Method\obj\Debug\net8.0\ref\Slot3_Extension_Method.dll

@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Test\Slot2PRN\bin\Debug\net8.0\Slot2PRN.exe
+C:\Users\ADMIN\source\repos\Test\Slot2PRN\bin\Debug\net8.0\Slot2PRN.deps.json
+C:\Users\ADMIN\source\repos\Test\Slot2PRN\bin\Debug\net8.0\Slot2PRN.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Slot2PRN\bin\Debug\net8.0\Slot2PRN.dll
+C:\Users\ADMIN\source\repos\Test\Slot2PRN\bin\Debug\net8.0\Slot2PRN.pdb
+C:\Users\ADMIN\source\repos\Test\Slot2PRN\obj\Debug\net8.0\Slot2PRN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Slot2PRN\obj\Debug\net8.0\Slot2PRN.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot2PRN\obj\Debug\net8.0\Slot2PRN.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Slot2PRN\obj\Debug\net8.0\Slot2PRN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot2PRN\obj\Debug\net8.0\Slot2PRN.dll
+C:\Users\ADMIN\source\repos\Test\Slot2PRN\obj\Debug\net8.0\refint\Slot2PRN.dll
+C:\Users\ADMIN\source\repos\Test\Slot2PRN\obj\Debug\net8.0\Slot2PRN.pdb
+C:\Users\ADMIN\source\repos\Test\Slot2PRN\obj\Debug\net8.0\Slot2PRN.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Slot2PRN\obj\Debug\net8.0\ref\Slot2PRN.dll

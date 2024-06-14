@@ -1,0 +1,79 @@
+﻿<Window x:Class="Slot_7_Window_Presentation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Slot_7_Window_Presentation"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid Grid.Column="0" Name="dgvDisplay" CanUserAddRows="False" AutoGenerateColumns="False" IsReadOnly="True" SelectionMode="Single">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="MSSV" Width="*" Binding="{Binding Id, Mode=OneWay}"/>
+                <DataGridTextColumn Header="FullName" Width="*" Binding="{Binding Name, Mode=OneWay}"/>
+                <DataGridCheckBoxColumn Header="Gender" Width="*" Binding="{Binding Gender, Mode=OneWay}"/>
+                <DataGridTextColumn Header="DepartName" Width="*" Binding="{Binding Depart.Name, Mode=OneWay}"/>
+                <DataGridTextColumn Header="DOB" Width="*" Binding="{Binding Dob, Mode=OneWay}"/>
+                <DataGridTextColumn Header="GPA" Width="*" Binding="{Binding Gpa, Mode=OneWay}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Column="1">
+            <Button Name="btnLoad" Width="50" Content="LoadDB" Click="btnLoad_Click"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="60"/>
+                    <ColumnDefinition Width="200"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel>
+                    <TextBlock Text="ID" Margin="5"/>
+                    <TextBlock Text="Name" Margin="5"/>
+                    <TextBlock Text="Gender" Margin="5"/>
+                    <TextBlock Text="Depart" Margin="5"/>
+                    <TextBlock Text="Dob" Margin="5"/>
+                    <TextBlock Text="GPA" Margin="5"/>
+                </StackPanel>
+                <StackPanel Grid.Column="1">
+                    <TextBox Margin="5" Name="txtId" Text="{Binding ElementName=dgvDisplay, Path=SelectedItem.Id, Mode=OneWay}"/>
+                    <TextBox Margin="5" Name="txtName" Text="{Binding ElementName=dgvDisplay, Path=SelectedItem.Name, Mode=OneWay}"/>
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <RadioButton Name="rbMale" Content="Male" IsChecked="{Binding ElementName=dgvDisplay, Path=SelectedItem.Gender, Mode=OneWay}"/>
+                        <RadioButton Name="rbFemale" Content="Female" Margin="10,0,0,0" IsChecked="True"/>
+                    </StackPanel>
+                    <ComboBox Name="cbDepart" SelectedValue="{Binding ElementName=dgvDisplay, Path=SelectedItem.Depart.Name, Mode=OneWay}"/>
+                    <DatePicker Margin="5" Name="dpDob" Text="{Binding ElementName=dgvDisplay, Path=SelectedItem.Dob, Mode=OneWay}"></DatePicker>
+                    <TextBox Margin="5" Name="txtGPA" Text="{Binding ElementName=dgvDisplay, Path=SelectedItem.Gpa, Mode=OneWay}"/>
+                </StackPanel>
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Button Width="50" Content="Insert" x:Name="btnInsert" Click="btnInsert_Click"/>
+                <Button Width="50" Content="Update" Grid.Column="1" x:Name="btnUpdate" Click="btnUpdate_Click"/>
+                <Button Width="50" Content="Delete" Grid.Column="2" x:Name="btnDelete" Click="btnDelete_Click"/>
+            </Grid>
+            <Grid>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <StackPanel Margin="0,10,10,0">
+                        <TextBlock Text="Department Search" />
+                        <ComboBox x:Name="DepartmentSearch" SelectionChanged="DepartmentSearch_SelectionChanged" />
+                    </StackPanel>
+                    <StackPanel Margin="10,10,0,0">
+                        <TextBlock Text="Gender Filter" />
+                        <StackPanel >
+                            <RadioButton x:Name="GenderMale" Content="Male" Checked="Gender_Checked" />
+                            <RadioButton x:Name="GenderFemale" Content="Female" Checked="Gender_Checked" />
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+    </Grid>
+
+</Window>

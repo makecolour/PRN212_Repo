@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Test\DemoBlinding2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ADMIN\source\repos\Test\DemoBlinding2\obj\Debug\net8.0-windows\DemoBlinding2_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\Test\DemoBlinding2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\source\repos\Test\DemoBlinding2\obj\Debug\net8.0-windows\DemoBlinding2_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\Test\DemoBlinding2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ADMIN\source\repos\Test\DemoBlinding2\obj\Debug\net8.0-windows\DemoBlinding2.g.resources
+C:\Users\ADMIN\source\repos\Test\DemoBlinding2\obj\Debug\net8.0-windows\DemoBlinding2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\DemoBlinding2\obj\Debug\net8.0-windows\DemoBlinding2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\DemoBlinding2\obj\Debug\net8.0-windows\DemoBlinding2.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\DemoBlinding2\obj\Debug\net8.0-windows\DemoBlinding2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\DemoBlinding2\obj\Debug\net8.0-windows\DemoBlinding2.csproj.AssemblyReference.cache

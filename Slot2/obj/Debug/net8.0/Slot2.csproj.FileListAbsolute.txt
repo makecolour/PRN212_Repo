@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Test\Slot2\bin\Debug\net8.0\Slot2.exe
+C:\Users\ADMIN\source\repos\Test\Slot2\bin\Debug\net8.0\Slot2.deps.json
+C:\Users\ADMIN\source\repos\Test\Slot2\bin\Debug\net8.0\Slot2.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Slot2\bin\Debug\net8.0\Slot2.dll
+C:\Users\ADMIN\source\repos\Test\Slot2\bin\Debug\net8.0\Slot2.pdb
+C:\Users\ADMIN\source\repos\Test\Slot2\obj\Debug\net8.0\Slot2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Slot2\obj\Debug\net8.0\Slot2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot2\obj\Debug\net8.0\Slot2.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Slot2\obj\Debug\net8.0\Slot2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot2\obj\Debug\net8.0\Slot2.dll
+C:\Users\ADMIN\source\repos\Test\Slot2\obj\Debug\net8.0\refint\Slot2.dll
+C:\Users\ADMIN\source\repos\Test\Slot2\obj\Debug\net8.0\Slot2.pdb
+C:\Users\ADMIN\source\repos\Test\Slot2\obj\Debug\net8.0\Slot2.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Slot2\obj\Debug\net8.0\ref\Slot2.dll

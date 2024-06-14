@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Slot2PRN": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

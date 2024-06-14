@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Test\Slot2_Var_Keyword\bin\Debug\net8.0\Slot2_Var_Keyword.exe
+C:\Users\ADMIN\source\repos\Test\Slot2_Var_Keyword\bin\Debug\net8.0\Slot2_Var_Keyword.deps.json
+C:\Users\ADMIN\source\repos\Test\Slot2_Var_Keyword\bin\Debug\net8.0\Slot2_Var_Keyword.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Slot2_Var_Keyword\bin\Debug\net8.0\Slot2_Var_Keyword.dll
+C:\Users\ADMIN\source\repos\Test\Slot2_Var_Keyword\bin\Debug\net8.0\Slot2_Var_Keyword.pdb
+C:\Users\ADMIN\source\repos\Test\Slot2_Var_Keyword\obj\Debug\net8.0\Slot2_Var_Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Slot2_Var_Keyword\obj\Debug\net8.0\Slot2_Var_Keyword.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot2_Var_Keyword\obj\Debug\net8.0\Slot2_Var_Keyword.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Slot2_Var_Keyword\obj\Debug\net8.0\Slot2_Var_Keyword.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot2_Var_Keyword\obj\Debug\net8.0\Slot2_Var_Keyword.dll
+C:\Users\ADMIN\source\repos\Test\Slot2_Var_Keyword\obj\Debug\net8.0\refint\Slot2_Var_Keyword.dll
+C:\Users\ADMIN\source\repos\Test\Slot2_Var_Keyword\obj\Debug\net8.0\Slot2_Var_Keyword.pdb
+C:\Users\ADMIN\source\repos\Test\Slot2_Var_Keyword\obj\Debug\net8.0\Slot2_Var_Keyword.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Slot2_Var_Keyword\obj\Debug\net8.0\ref\Slot2_Var_Keyword.dll

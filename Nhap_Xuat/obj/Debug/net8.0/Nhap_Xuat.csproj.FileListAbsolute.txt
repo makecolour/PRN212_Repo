@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\bin\Debug\net8.0\Nhap_Xuat.exe
+C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\bin\Debug\net8.0\Nhap_Xuat.deps.json
+C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\bin\Debug\net8.0\Nhap_Xuat.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\bin\Debug\net8.0\Nhap_Xuat.dll
+C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\bin\Debug\net8.0\Nhap_Xuat.pdb
+C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\obj\Debug\net8.0\Nhap_Xuat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\obj\Debug\net8.0\Nhap_Xuat.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\obj\Debug\net8.0\Nhap_Xuat.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\obj\Debug\net8.0\Nhap_Xuat.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\obj\Debug\net8.0\Nhap_Xuat.dll
+C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\obj\Debug\net8.0\refint\Nhap_Xuat.dll
+C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\obj\Debug\net8.0\Nhap_Xuat.pdb
+C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\obj\Debug\net8.0\Nhap_Xuat.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\obj\Debug\net8.0\ref\Nhap_Xuat.dll

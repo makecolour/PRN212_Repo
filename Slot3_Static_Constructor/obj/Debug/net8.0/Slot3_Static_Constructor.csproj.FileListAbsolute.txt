@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Constructor\bin\Debug\net8.0\Slot3_Static_Constructor.exe
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Constructor\bin\Debug\net8.0\Slot3_Static_Constructor.deps.json
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Constructor\bin\Debug\net8.0\Slot3_Static_Constructor.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Constructor\bin\Debug\net8.0\Slot3_Static_Constructor.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Constructor\bin\Debug\net8.0\Slot3_Static_Constructor.pdb
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Constructor\obj\Debug\net8.0\Slot3_Static_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Constructor\obj\Debug\net8.0\Slot3_Static_Constructor.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Constructor\obj\Debug\net8.0\Slot3_Static_Constructor.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Constructor\obj\Debug\net8.0\Slot3_Static_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Constructor\obj\Debug\net8.0\Slot3_Static_Constructor.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Constructor\obj\Debug\net8.0\refint\Slot3_Static_Constructor.dll
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Constructor\obj\Debug\net8.0\Slot3_Static_Constructor.pdb
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Constructor\obj\Debug\net8.0\Slot3_Static_Constructor.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Test\Slot3_Static_Constructor\obj\Debug\net8.0\ref\Slot3_Static_Constructor.dll
