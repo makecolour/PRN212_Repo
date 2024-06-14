@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Slot2PRN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bb2a6d9345148774e09ccd8ff4b87d77d39979a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Slot2PRN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Slot2PRN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

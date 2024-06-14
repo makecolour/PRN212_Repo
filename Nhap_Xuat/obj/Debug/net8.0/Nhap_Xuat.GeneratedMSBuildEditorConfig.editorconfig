@@ -12,6 +12,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Nhap_Xuat
-build_property.ProjectDir = C:\Users\ADMIN\source\repos\Test\Nhap_Xuat\
+build_property.ProjectDir = D:\PRN212\New folder\PRN212_Repo\Nhap_Xuat\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false

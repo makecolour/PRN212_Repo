@@ -25,6 +25,7 @@ namespace Slot_7_Window_Presentation
         private void btnLoad_Click(object sender, RoutedEventArgs e)
         {
             Load();
+            
         }
 
         private void Load()
@@ -34,16 +35,15 @@ namespace Slot_7_Window_Presentation
             //Singleton Pattern
             var list = Prn211Context.INSTANCE.Students.Include(x => x.Depart).ToList();
             dgvDisplay.ItemsSource = list;
+            cbDepart.ItemsSource = Prn211Context.INSTANCE.Departments.Select(x => x.Name).ToList();
+            DepartmentSearch.ItemsSource = Prn211Context.INSTANCE.Departments.Select(x => x.Name).ToList();
             dgvDisplay.Items.Refresh();
         }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            using (var context = Prn211Context.INSTANCE)
-            {
-                cbDepart.ItemsSource = Prn211Context.INSTANCE.Departments.Select(x => x.Name).ToList();
-                
-            }
+            cbDepart.ItemsSource = Prn211Context.INSTANCE.Departments.Select(x => x.Name).ToList();
+            DepartmentSearch.ItemsSource = Prn211Context.INSTANCE.Departments.Select(x => x.Name).ToList();
         }
 
         private void btnInsert_Click(object sender, RoutedEventArgs e)

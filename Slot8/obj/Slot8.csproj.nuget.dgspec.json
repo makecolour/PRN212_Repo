@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot8\\Slot8.csproj": {}
+    "D:\\PRN212\\New folder\\PRN212_Repo\\Slot8\\Slot8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot8\\Slot8.csproj": {
+    "D:\\PRN212\\New folder\\PRN212_Repo\\Slot8\\Slot8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot8\\Slot8.csproj",
+        "projectUniqueName": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot8\\Slot8.csproj",
         "projectName": "Slot8",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot8\\Slot8.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot8\\obj\\",
+        "projectPath": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot8\\Slot8.csproj",
+        "packagesPath": "C:\\Users\\quyen\\.nuget\\packages\\",
+        "outputPath": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot8\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\quyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

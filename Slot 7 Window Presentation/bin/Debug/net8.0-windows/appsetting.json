@@ -7,5 +7,5 @@
     "**/obj",
     "**/platforms"
   ],
-  "ConnectionStrings": { "value": "Data Source=DESKTOP-VIHAKP3;Initial Catalog=PRN211_1; Trusted_Connection=SSPI;Encrypt=false" }
+  "ConnectionStrings": { "value": "Data Source=HERBIVORE;Initial Catalog=PRN211_SE1816; Trusted_Connection=SSPI;Encrypt=false" }
 }

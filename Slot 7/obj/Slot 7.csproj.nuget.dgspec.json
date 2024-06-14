@@ -1,111 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7\\Slot 7.csproj": {}
+    "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7\\Slot 7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\Slot 7 Window Presentation.csproj": {
+    "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7\\Slot 7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\Slot 7 Window Presentation.csproj",
-        "projectName": "Slot 7 Window Presentation",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\Slot 7 Window Presentation.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0-windows"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.6, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.6, )"
-            },
-            "Microsoft.Extensions.Configuration": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Microsoft.Extensions.Configuration.Json": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WPF": {
-              "privateAssets": "none"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7\\Slot 7.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7\\Slot 7.csproj",
+        "projectUniqueName": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7\\Slot 7.csproj",
         "projectName": "Slot 7",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7\\Slot 7.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7\\obj\\",
+        "projectPath": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7\\Slot 7.csproj",
+        "packagesPath": "C:\\Users\\quyen\\.nuget\\packages\\",
+        "outputPath": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\quyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -119,8 +28,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\Slot 7 Window Presentation.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\Slot 7 Window Presentation.csproj"
+              "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7 Window Presentation\\Slot 7 Window Presentation.csproj": {
+                "projectPath": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7 Window Presentation\\Slot 7 Window Presentation.csproj"
               }
             }
           }
@@ -174,7 +83,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Microsoft.DotNet.ILCompiler/8.0.4": {
+      "Microsoft.DotNet.ILCompiler/8.0.6": {
         "type": "package",
         "build": {
           "build/Microsoft.DotNet.ILCompiler.props": {}
@@ -165,7 +165,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.NET.ILLink.Tasks/8.0.4": {
+      "Microsoft.NET.ILLink.Tasks/8.0.6": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -215,10 +215,10 @@
     }
   },
   "libraries": {
-    "Microsoft.DotNet.ILCompiler/8.0.4": {
-      "sha512": "bVK6XD5E/BpkPmdrx99ZkloZZX3nOvTAcW+W6jW4cs8elWlLFAc9BXHk2esxSVHMiaCLiLdIJAyhUfhV50TW+Q==",
+    "Microsoft.DotNet.ILCompiler/8.0.6": {
+      "sha512": "u3mX8tpzurjYoh4FcSdK+nDeEk29XvFCPM91jW0JVyQxdi2LlwHIn7Ac7qVLkxwcCdPPHHfPj6mgxfeNRQXu0Q==",
       "type": "package",
-      "path": "microsoft.dotnet.ilcompiler/8.0.4",
+      "path": "microsoft.dotnet.ilcompiler/8.0.6",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -237,7 +237,7 @@
         "build/NativeAOT.natvis",
         "build/WindowsAPIs.txt",
         "build/findvcvarsall.bat",
-        "microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+        "microsoft.dotnet.ilcompiler.8.0.6.nupkg.sha512",
         "microsoft.dotnet.ilcompiler.nuspec",
         "runtime.json",
         "tools/netstandard/ILCompiler.Build.Tasks.deps.json",
@@ -485,10 +485,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.NET.ILLink.Tasks/8.0.4": {
-      "sha512": "PZb5nfQ+U19nhnmnR9T1jw+LTmozhuG2eeuzuW5A7DqxD/UXW2ucjmNJqnqOuh8rdPzM3MQXoF8AfFCedJdCUw==",
+    "Microsoft.NET.ILLink.Tasks/8.0.6": {
+      "sha512": "E+lDylsTeP4ZiDmnEkiJ5wobnGaIJzFhOgZppznJCb69UZgbh6G3cfv1pnLDLLBx6JAgl0kAlnINDeT3uCuczQ==",
       "type": "package",
-      "path": "microsoft.net.illink.tasks/8.0.4",
+      "path": "microsoft.net.illink.tasks/8.0.6",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -502,7 +502,7 @@
         "build/Microsoft.NET.ILLink.Analyzers.props",
         "build/Microsoft.NET.ILLink.Tasks.props",
         "build/Microsoft.NET.ILLink.targets",
-        "microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+        "microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
         "microsoft.net.illink.tasks.nuspec",
         "tools/net472/ILLink.Tasks.dll",
         "tools/net472/ILLink.Tasks.dll.config",
@@ -647,31 +647,26 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.DotNet.ILCompiler >= 8.0.4",
+      "Microsoft.DotNet.ILCompiler >= 8.0.6",
       "Microsoft.Extensions.Configuration >= 8.0.0",
       "Microsoft.Extensions.Configuration.Json >= 8.0.0",
-      "Microsoft.NET.ILLink.Tasks >= 8.0.4"
+      "Microsoft.NET.ILLink.Tasks >= 8.0.6"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\quyen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot2_Dynamic_Type\\Slot2_Dynamic_Type.csproj",
+      "projectUniqueName": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot2_Dynamic_Type\\Slot2_Dynamic_Type.csproj",
       "projectName": "Slot2_Dynamic_Type",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot2_Dynamic_Type\\Slot2_Dynamic_Type.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot2_Dynamic_Type\\obj\\",
+      "projectPath": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot2_Dynamic_Type\\Slot2_Dynamic_Type.csproj",
+      "packagesPath": "C:\\Users\\quyen\\.nuget\\packages\\",
+      "outputPath": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot2_Dynamic_Type\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\quyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -705,7 +700,7 @@
           "Microsoft.DotNet.ILCompiler": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[8.0.4, )",
+            "version": "[8.0.6, )",
             "autoReferenced": true
           },
           "Microsoft.Extensions.Configuration": {
@@ -719,7 +714,7 @@
           "Microsoft.NET.ILLink.Tasks": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[8.0.4, )",
+            "version": "[8.0.6, )",
             "autoReferenced": true
           }
         },
@@ -737,7 +732,7 @@
         "downloadDependencies": [
           {
             "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
-            "version": "[8.0.4, 8.0.4]"
+            "version": "[8.0.6, 8.0.6]"
           }
         ],
         "frameworkReferences": {
@@ -745,7 +740,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

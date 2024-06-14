@@ -1,17 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Test\\",
+  "WorkspaceRootPath": "D:\\PRN212\\New folder\\PRN212_Repo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\AppData\\Local\\Temp\\Zalo Temp\\44901656\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7823C6A8-EAEE-45A1-A097-B2E3A660ADCD}|Slot 7 Window Presentation\\Slot_7_Window_Presentation.csproj|d:\\prn212\\new folder\\prn212_repo\\slot 7 window presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7823C6A8-EAEE-45A1-A097-B2E3A660ADCD}|Slot 7 Window Presentation\\Slot_7_Window_Presentation.csproj|solutionrelative:slot 7 window presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7823C6A8-EAEE-45A1-A097-B2E3A660ADCD}|Slot 7 Window Presentation\\Slot_7_Window_Presentation.csproj|C:\\Users\\ADMIN\\source\\repos\\Test\\slot 7 window presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7823C6A8-EAEE-45A1-A097-B2E3A660ADCD}|Slot 7 Window Presentation\\Slot_7_Window_Presentation.csproj|d:\\prn212\\new folder\\prn212_repo\\slot 7 window presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7823C6A8-EAEE-45A1-A097-B2E3A660ADCD}|Slot 7 Window Presentation\\Slot_7_Window_Presentation.csproj|solutionrelative:slot 7 window presentation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7823C6A8-EAEE-45A1-A097-B2E3A660ADCD}|Slot 7 Window Presentation\\Slot_7_Window_Presentation.csproj|c:\\users\\admin\\source\\repos\\test\\slot 7 window presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7823C6A8-EAEE-45A1-A097-B2E3A660ADCD}|Slot 7 Window Presentation\\Slot_7_Window_Presentation.csproj|solutionrelative:slot 7 window presentation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7823C6A8-EAEE-45A1-A097-B2E3A660ADCD}|Slot 7 Window Presentation\\Slot_7_Window_Presentation.csproj|d:\\prn212\\new folder\\prn212_repo\\slot 7 window presentation\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7823C6A8-EAEE-45A1-A097-B2E3A660ADCD}|Slot 7 Window Presentation\\Slot_7_Window_Presentation.csproj|solutionrelative:slot 7 window presentation\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7823C6A8-EAEE-45A1-A097-B2E3A660ADCD}|Slot 7 Window Presentation\\Slot_7_Window_Presentation.csproj|d:\\prn212\\new folder\\prn212_repo\\slot 7 window presentation\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7823C6A8-EAEE-45A1-A097-B2E3A660ADCD}|Slot 7 Window Presentation\\Slot_7_Window_Presentation.csproj|solutionrelative:slot 7 window presentation\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7 Window Presentation\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Slot 7 Window Presentation\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7 Window Presentation\\MainWindow.xaml.cs",
               "RelativeToolTip": "Slot 7 Window Presentation\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA4wCMAAAAVAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwCYAAABrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T15:15:41.908Z",
               "IsPinned": true,
@@ -39,24 +44,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\Zalo Temp\\44901656\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Zalo Temp\\44901656\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\Zalo Temp\\44901656\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\Zalo Temp\\44901656\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFYAAAAaAAAA",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7 Window Presentation\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Slot 7 Window Presentation\\AssemblyInfo.cs",
+              "ToolTip": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7 Window Presentation\\AssemblyInfo.cs",
+              "RelativeToolTip": "Slot 7 Window Presentation\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T01:34:55.196Z",
+              "WhenOpened": "2024-06-14T02:09:13.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsetting.json",
+              "DocumentMoniker": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7 Window Presentation\\appsetting.json",
+              "RelativeDocumentMoniker": "Slot 7 Window Presentation\\appsetting.json",
+              "ToolTip": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7 Window Presentation\\appsetting.json",
+              "RelativeToolTip": "Slot 7 Window Presentation\\appsetting.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T02:08:17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7 Window Presentation\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Slot 7 Window Presentation\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN212\\New folder\\PRN212_Repo\\Slot 7 Window Presentation\\MainWindow.xaml",
               "RelativeToolTip": "Slot 7 Window Presentation\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-12T15:15:42.876Z",
