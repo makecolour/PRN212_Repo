@@ -11,6 +11,7 @@
             <ColumnDefinition Width="2*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
+        
         <DataGrid Grid.Column="0" Name="dgvDisplay" CanUserAddRows="False" AutoGenerateColumns="False" IsReadOnly="True" SelectionMode="Single">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="MSSV" Width="*" Binding="{Binding Id, Mode=OneWay}"/>
@@ -44,6 +45,11 @@
                         <RadioButton Name="rbFemale" Content="Female" Margin="10,0,0,0" IsChecked="True"/>
                     </StackPanel>
                     <ComboBox Name="cbDepart" SelectedValue="{Binding ElementName=dgvDisplay, Path=SelectedItem.Depart.Name, Mode=OneWay}"/>
+                    <!--<StackPanel Name="cbDepart" Tag="{Binding ElementName=dgvDisplay, Path=SelectedItem.DepartId, Mode=OneWay}">
+                        <RadioButton Name="rbMale" Content="Male" IsChecked="{Binding ElementName=dgvDisplay, Path=SelectedItem.Gender, Mode=OneWay}"/>
+                        <RadioButton Name="rbFemale" Content="Female" Margin="10,0,0,0" IsChecked="True"/>
+                    </StackPanel>-->
+
                     <DatePicker Margin="5" Name="dpDob" Text="{Binding ElementName=dgvDisplay, Path=SelectedItem.Dob, Mode=OneWay}"></DatePicker>
                     <TextBox Margin="5" Name="txtGPA" Text="{Binding ElementName=dgvDisplay, Path=SelectedItem.Gpa, Mode=OneWay}"/>
                 </StackPanel>

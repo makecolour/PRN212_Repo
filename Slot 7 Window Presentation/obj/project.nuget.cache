@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pcY8K1kDoOPwrMFIFGq4MUj5w0tDrybUSK2gcN4HneWCI04ZW9+nlnLPci9EVKdvis/FvlGQmKO0ICWq5l4lZw==",
+  "dgSpecHash": "8QDW6pokxyP0ZA/vtrrxytcAWziNhQZWqzHoVmqOUcwNitCxHH9CHPQ7KMB0OvZNSbVn8K7fx0RQl7RLsiET8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\Slot_7_Window_Presentation.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\Slot 7 Window Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -140,3 +140,4 @@ C:\Users\ADMIN\source\repos\Test\Slot 7 Window Presentation\obj\Debug\net8.0-win
 C:\Users\ADMIN\source\repos\Test\Slot 7 Window Presentation\obj\Debug\net8.0-windows\Slot_7_Window_Presentation.genruntimeconfig.cache
 C:\Users\ADMIN\source\repos\Test\Slot 7 Window Presentation\obj\Debug\net8.0-windows\ref\Slot_7_Window_Presentation.dll
 C:\Users\ADMIN\source\repos\Test\Slot 7 Window Presentation\bin\Debug\net8.0-windows\Models\Prn211Context.cs
+C:\Users\ADMIN\source\repos\Test\Slot 7 Window Presentation\obj\Debug\net8.0-windows\Slot_7_Window_Presentation.sourcelink.json

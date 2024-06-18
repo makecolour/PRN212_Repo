@@ -42,7 +42,7 @@ namespace Slot_7_Window_Presentation
             using (var context = Prn211Context.INSTANCE)
             {
                 cbDepart.ItemsSource = Prn211Context.INSTANCE.Departments.Select(x => x.Name).ToList();
-                
+                DepartmentSearch.ItemsSource = Prn211Context.INSTANCE.Departments.Select(x => x.Name).ToList();
             }
         }
 
@@ -122,5 +122,6 @@ namespace Slot_7_Window_Presentation
                 dgvDisplay.ItemsSource = list;
                 dgvDisplay.Items.Refresh();
         }
+       
     }
 }

@@ -4510,9 +4510,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\Slot_7_Window_Presentation.csproj",
-      "projectName": "Slot_7_Window_Presentation",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\Slot_7_Window_Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\Slot 7 Window Presentation.csproj",
+      "projectName": "Slot 7 Window Presentation",
+      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\Slot 7 Window Presentation.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Test\\Slot 7 Window Presentation\\obj\\",
       "projectStyle": "PackageReference",
